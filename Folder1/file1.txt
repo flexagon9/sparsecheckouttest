@@ -1,2 +1,2 @@
 hello
-changed file only in Folder1 here
+changed file only in Folder1
