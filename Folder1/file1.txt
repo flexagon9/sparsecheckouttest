@@ -2,3 +2,4 @@ hello
 changed file only in Folder1
 Hi
 aaa
+hi
